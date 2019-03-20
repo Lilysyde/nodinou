@@ -1,0 +1,21 @@
+{
+  "name": "wilders",
+  "version": "1.0.0",
+  "description": "",
+  "main": "atelierNode.js",
+  "scripts": {
+    "start": "node atelierNode.js"
+  },
+  "author": "Barlet emilie",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "???"
+  },
+  "keywords": [
+    "atelierNode"
+  ],
+  "dependencies": {
+    "chalk": "2.4.2"
+  }
+}
